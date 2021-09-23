@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Pierian Converter": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\Users\\25416\\Source\\Repos\\Project Notes\\Perian Project\\2021-08-31Examples\\\\\" \"Example 15 fullrun_1_14.json\" \"C:\\Temp\""
+    }
+  }
+}
